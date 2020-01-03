@@ -4,4 +4,5 @@
 # DESCRIPTION: script to count number of seqs in a genome
 
 grep -c ">" $1
+echo "Hello"
 
